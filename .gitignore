@@ -159,3 +159,6 @@ GTAGS
 GPATH
 GRTAGS
 Pipfile.lock
+
+# installation directory
+spool/

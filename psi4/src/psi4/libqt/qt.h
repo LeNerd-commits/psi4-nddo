@@ -39,6 +39,7 @@
 #pragma once
 
 #include <string>
+#include <stdint.h>
 
 #include "psi4/pragma.h"
 #include "psi4/psi4-dec.h"
